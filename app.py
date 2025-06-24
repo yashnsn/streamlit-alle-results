@@ -8,7 +8,7 @@ garment_images_path = 'garments/flatlays_ale'
 all_people = [None]
 all_people += list(character_path_mapper.keys())
 person = st.selectbox('Person',all_people)
-
+st.write("UPdated the code for testing")
 if person is not None:
     base_image_path, try_on_results_path = character_path_mapper[person]
     base_image = Image.open(base_image_path)
