@@ -3,12 +3,12 @@ from PIL import Image
 import streamlit as st
 
 st.set_page_config(page_title="Custom Attention Flux", layout="wide")
-character_path_mapper = {'isha':('base_images/isha.jpeg','results/results_isha_test_run_flatlays_ale'), 'stuti':('base_images/stuti_3.jpeg','results/results_stuti_test_run_flatlays_ale'),'rhea':('base_images/rhea.png','results/results_rhea_test_run_flatlays_ale')}
-garment_images_path = 'garments/flatlays_ale'
+character_path_mapper = {'isha':('base_images/isha.jpeg','results/results_isha_test_run_V19_value_attn_weights'), 'stuti':('base_images/stuti_3.jpeg','results/results_stuti_test_run_V19_value_attn_weights'),'rhea':('base_images/rhea.png','results/results_rhea_test_run_V19_value_attn_weights')}
+garment_images_path = 'garments/outfits_final_test'
 all_people = [None]
 all_people += list(character_path_mapper.keys())
 person = st.selectbox('Person',all_people)
-st.write("UPdated the code for testing")
+
 if person is not None:
     base_image_path, try_on_results_path = character_path_mapper[person]
     base_image = Image.open(base_image_path)
