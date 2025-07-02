@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Custom Attention Flux", layout="wide")
 character_path_mapper = {
-    'isha':('base_images/isha.jpeg','results/results_isha_prod_run_V0','results/isha_prod','garments/final_test_images'), 
+    'isha':('base_images/isha.jpeg','results/results_isha_prod_run_V0','results/isha_prod','results/isha_alphabake_tryon','garments/final_test_images'), 
     # 'stuti':('base_images/stuti_3.jpeg','results/results_stuti_prod_run_V0','base_images/stuti_LoKR2.png','results/results_stuti_LoKR2_prod_run_V0_updated_prompt','results/stuti'),
     # 'rhea':('base_images/rhea.png','results/results_rhea_prod_run_V0','base_images/rhea_LoKR2.png','results/results_rhea_LoKR2_prod_run_V0_updated_prompt','results/rhea')
 }
@@ -15,24 +15,26 @@ person = st.selectbox('Person',all_people)
 
 if person is not None:
     # base_image_path, try_on_results_path, base_image_path_2, try_on_results_path_2, prod_results_path = character_path_mapper[person]
-    base_image_path, try_on_results_path, google_try_on_results_path, garment_image_path = character_path_mapper[person]
+    base_image_path, try_on_results_path, google_try_on_results_path, alphabake_tryon_path, garment_image_path = character_path_mapper[person]
     base_image = Image.open(base_image_path)
     # base_image2 = Image.open(base_image_path_2)
 
     all_tryon_images = []
     all_google_tryon_images = []
+    all_alphabake_tryon_images = []
     all_garment_images = []
     all_image_names = [i for i in os.listdir(try_on_results_path) if not i.startswith('.')]
     all_image_names.sort()
     for ind_result in all_image_names:
         all_tryon_images.append(Image.open(f'{try_on_results_path}/{ind_result}'))
         all_google_tryon_images.append(Image.open(f'{google_try_on_results_path}/{ind_result}'))
+        all_alphabake_tryon_images.append(Image.open(f'{alphabake_tryon_path}/{ind_result}.jpg'))
         all_garment_images.append(Image.open(f'{garment_images_path}/{ind_result}'))
         # all_prod_results.append(Image.open(f'{prod_results_path}/{ind_result}'))
 
-    for image_name, tryon_image,google_tryon_image, garment_image in zip(all_image_names, all_tryon_images, all_google_tryon_images, all_garment_images):
+    for image_name, tryon_image,google_tryon_image, alphabake_tryon_image, garment_image in zip(all_image_names, all_tryon_images, all_google_tryon_images, all_alphabake_tryon_images,all_garment_images):
         st.write(f'File name: {image_name}')
-        cols = st.columns(4)
+        cols = st.columns(5)
         
         
         with cols[0]:
@@ -45,6 +47,9 @@ if person is not None:
             st.write('try on result(google)')
             st.image(google_tryon_image, use_container_width=True)
         with cols[3]:
+            st.write('try on result(alphabake)')
+            st.image(alphabake_tryon_image, use_container_width=True)
+        with cols[4]:
             st.write('garment image')
             st.image(garment_image, use_container_width=True)
         
