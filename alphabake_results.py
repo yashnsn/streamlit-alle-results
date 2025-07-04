@@ -7,9 +7,9 @@ st.title("Alphabake Results")
 
 
 
-root_dir = "/Users/yaswanth/repositories/streamlit-alle-results/alphabake_final_test_results/tryons"
-garment_dir = "/Users/yaswanth/repositories/streamlit-alle-results/alphabake_final_test_results/garments"
-human_dir = "/Users/yaswanth/repositories/streamlit-alle-results/alphabake_final_test_results/base_images"
+root_dir = "./alphabake_final_test_results/tryons"
+garment_dir = "./alphabake_final_test_results/garments"
+human_dir = "./alphabake_final_test_results/base_images"
 
 people = os.listdir(root_dir)
 people.append(None)
