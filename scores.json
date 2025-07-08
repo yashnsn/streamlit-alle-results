@@ -1,0 +1,1172 @@
+{
+  "prateek_1_outfit2.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit2.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "prateek_2_outfit2.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit2.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    }
+  },
+  "prateek_1_outfit3.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit3.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit3.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit3.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "prateek_1_outfit1.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit1.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit1.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit1.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    }
+  },
+  "prateek_1_outfit4.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit4.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "prateek_2_outfit4.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit4.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "prateek_1_outfit5.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit5.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "prateek_2_outfit5.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit5.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_1_outfit7.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit7.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit7.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit7.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 1
+    }
+  },
+  "prateek_1_outfit6.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit6.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit6.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit6.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_1_outfit8.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit8.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit8.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit8.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "prateek_1_outfit9.jpg": {
+    "person": "prateek",
+    "base_image_idx": 1,
+    "garment_name": "outfit9.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "prateek_2_outfit9.jpg": {
+    "person": "prateek",
+    "base_image_idx": 2,
+    "garment_name": "outfit9.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "isha_1_176675_1002.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "176675_1002.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    }
+  },
+  "isha_2_176675_1002.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "176675_1002.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_696005_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "696005_1001.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_696005_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "696005_1001.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_636149_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "636149_1001.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_636149_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "636149_1001.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_1118817_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "1118817_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "isha_2_1118817_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "1118817_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_300413_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "300413_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_300413_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "300413_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 0
+    }
+  },
+  "isha_1_98404_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "98404_1005.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    }
+  },
+  "isha_2_98404_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "98404_1005.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_174381_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "174381_1005.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    }
+  },
+  "isha_2_174381_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "174381_1005.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_14914_1008.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "14914_1008.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "isha_2_14914_1008.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "14914_1008.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_51469_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "51469_1001.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "isha_2_51469_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "51469_1001.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "isha_1_727832_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "727832_1001.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_727832_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "727832_1001.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "isha_1_1151577_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "1151577_1005.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_1151577_1005.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "1151577_1005.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "isha_1_64653_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "64653_1000.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_64653_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "64653_1000.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_1089201_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "1089201_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_1089201_1000.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "1089201_1000.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_175763_1004.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "175763_1004.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_2_175763_1004.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "175763_1004.jpg",
+    "alphabake": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "isha_1_652910_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 1,
+    "garment_name": "652910_1001.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
+    }
+  },
+  "isha_2_652910_1001.jpg": {
+    "person": "isha",
+    "base_image_idx": 2,
+    "garment_name": "652910_1001.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    },
+    "google": {
+      "bodyshape": 0,
+      "garment": 0,
+      "realism": 0
+    }
+  },
+  "stuti_1_176675_1002.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "176675_1002.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_176675_1002.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "176675_1002.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_696005_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "696005_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_696005_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "696005_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_636149_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "636149_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_636149_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "636149_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_1118817_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "1118817_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_1118817_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "1118817_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_300413_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "300413_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_300413_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "300413_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_98404_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "98404_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_98404_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "98404_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_174381_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "174381_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_174381_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "174381_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_14914_1008.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "14914_1008.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_14914_1008.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "14914_1008.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_51469_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "51469_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_51469_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "51469_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_727832_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "727832_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_727832_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "727832_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_1151577_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "1151577_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_1151577_1005.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "1151577_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_64653_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "64653_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_64653_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "64653_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_1089201_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "1089201_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_1089201_1000.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "1089201_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_175763_1004.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "175763_1004.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_175763_1004.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "175763_1004.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1_652910_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 1,
+    "garment_name": "652910_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_2_652910_1001.jpg": {
+    "person": "stuti",
+    "base_image_idx": 2,
+    "garment_name": "652910_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  }
+}
