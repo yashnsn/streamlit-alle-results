@@ -724,14 +724,14 @@
     "base_image_idx": 1,
     "garment_name": "176675_1002.jpg",
     "alphabake": {
-      "bodyshape": null,
-      "garment": null,
-      "realism": null
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
     },
     "google": {
-      "bodyshape": null,
-      "garment": null,
-      "realism": null
+      "bodyshape": 0,
+      "garment": 1,
+      "realism": 0
     }
   },
   "stuti_2_176675_1002.jpg": {
@@ -1158,6 +1158,216 @@
     "person": "stuti",
     "base_image_idx": 2,
     "garment_name": "652910_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_176675_1002.jpg": {
+    "person": "stuti",
+    "ind_file": "176675_1002.jpg",
+    "alphabake": {
+      "bodyshape": 1,
+      "garment": 0,
+      "realism": 0
+    },
+    "google": {
+      "bodyshape": 1,
+      "garment": 1,
+      "realism": 1
+    }
+  },
+  "stuti_696005_1001.jpg": {
+    "person": "stuti",
+    "ind_file": "696005_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_636149_1001.jpg": {
+    "person": "stuti",
+    "ind_file": "636149_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1118817_1000.jpg": {
+    "person": "stuti",
+    "ind_file": "1118817_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_300413_1000.jpg": {
+    "person": "stuti",
+    "ind_file": "300413_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_98404_1005.jpg": {
+    "person": "stuti",
+    "ind_file": "98404_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_174381_1005.jpg": {
+    "person": "stuti",
+    "ind_file": "174381_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_14914_1008.jpg": {
+    "person": "stuti",
+    "ind_file": "14914_1008.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_51469_1001.jpg": {
+    "person": "stuti",
+    "ind_file": "51469_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_727832_1001.jpg": {
+    "person": "stuti",
+    "ind_file": "727832_1001.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1151577_1005.jpg": {
+    "person": "stuti",
+    "ind_file": "1151577_1005.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_64653_1000.jpg": {
+    "person": "stuti",
+    "ind_file": "64653_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_1089201_1000.jpg": {
+    "person": "stuti",
+    "ind_file": "1089201_1000.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_175763_1004.jpg": {
+    "person": "stuti",
+    "ind_file": "175763_1004.jpg",
+    "alphabake": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    },
+    "google": {
+      "bodyshape": null,
+      "garment": null,
+      "realism": null
+    }
+  },
+  "stuti_652910_1001.jpg": {
+    "person": "stuti",
+    "ind_file": "652910_1001.jpg",
     "alphabake": {
       "bodyshape": null,
       "garment": null,
