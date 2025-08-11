@@ -4,7 +4,7 @@ from PIL import Image
 import json
 
 st.set_page_config(page_title="Prog Content Debugging", page_icon=":chart_with_upwards_trend:", layout="wide")
-root_path = "/Users/yaswanth/repositories/prog_content/prog_content_debugging_4"
+root_path = "./prog_content_debugging_4"
 all_files = os.listdir(root_path)
 all_files.sort()
 
