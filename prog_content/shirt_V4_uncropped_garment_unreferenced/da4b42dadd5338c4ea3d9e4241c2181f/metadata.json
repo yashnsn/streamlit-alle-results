@@ -1,0 +1,7 @@
+{
+    "prompt": "```\nBackground description: The setting is an indoor space with a rustic and artistic vibe. A deep red textured curtain hangs in the background, contrasting with the aged, cream-colored wooden door that has visible wear and tear. The floor is concrete, adding to the raw, industrial feel of the environment.\n\nPose description: A woman is confidently posing with one leg bent and resting on a step, while the other leg is straight. Her hand is placed on her hip, and she leans slightly forward, exuding a relaxed yet assertive demeanor. Her head is tilted slightly, and she wears sunglasses, adding a touch of mystery.\n\nOutfit description:\nTop/Shirt/Blouse: A white button-up shirt with a unique, colorful textured patch on the chest, featuring a mix of vibrant yarns creating a playful, artistic design.\nPants: Light blue, wide-leg jeans that have a casual, relaxed fit, extending down to the floor.\nFootwear: Black pointed-toe heels with a decorative element on the front, adding elegance to the casual outfit.\nAccessories: Stylish sunglasses with a modern frame, enhancing the chic look.\n```",
+    "flow_shift": 8,
+    "num_inference_steps": 11,
+    "guidance_scale": 3,
+    "conditioning_scale": 1
+}
