@@ -28,12 +28,19 @@ if selected_cat:
         cols = st.columns(5)
 
         with cols[0]:
+            st.write("Original Image")
             st.image(original_image)
         with cols[1]:
+            st.write("Garment Image")
             st.image(garment_image)
         with cols[2]:
+            st.write("Output using Original referenence")
             st.image(gen_image)
         with cols[3]:
+            st.write("Output using upscaled image")
             st.image(gen_image_upscaled)
         with cols[4]:
+            st.write("Output using refined + upscaled image")
             st.image(gen_image_upscaled_refined)
+
+        st.divider()
