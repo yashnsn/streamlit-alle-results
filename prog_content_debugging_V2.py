@@ -4,7 +4,7 @@ from PIL import Image
 import json
 
 st.set_page_config(page_title="Prog Content Debugging", page_icon=":chart_with_upwards_trend:", layout="wide")
-root_path = "./prog_content_debugging_4"
+root_path = "./prog_content_debugging_4_V2"
 all_files = os.listdir(root_path)
 all_files.sort()
 
@@ -24,11 +24,15 @@ for idx in all_selected_rows:
     garment_image = Image.open(os.path.join(root_path, f"{int(idx):03d}", "garment.jpg"))
     cropped_garment_image = Image.open(os.path.join(root_path, f"{int(idx):03d}", "cropped_garment.jpg"))
     reference_image = Image.open(os.path.join(root_path, f"{int(idx):03d}", "reference_altered.jpg"))
-    gen_image = Image.open(os.path.join(root_path, f"{int(idx):03d}", "output.png"))
+    gen_image = Image.open(os.path.join(root_path[:-3], f"{int(idx):03d}", "output.png"))
+    gen_image_2 = Image.open(os.path.join(f"{root_path}", f"{int(idx):03d}", "output.png"))
     old_gen_image = Image.open(os.path.join(root_path, f"{int(idx):03d}", "output_original.jpg"))
     gen_prompted = json.load(open(os.path.join(root_path, f"{int(idx):03d}", "metadata.json")))
+    # gen_prompted_idx = 
+    
 
     metadata[idx]['image_generation_prompt'] = gen_prompted['image_generation_prompt']
+    metadata[idx]['idx'] = idx
     cols = st.columns(6)
 
     with cols[0]:
@@ -46,6 +50,9 @@ for idx in all_selected_rows:
     with cols[4]:
         st.write("New Gen Image")
         st.image(gen_image)
+    with cols[4]:
+        st.write("New Gen Image with ne prompt")
+        st.image(gen_image_2)
     with cols[5]:
         st.write("Metadata")
         st.write(metadata[idx])
