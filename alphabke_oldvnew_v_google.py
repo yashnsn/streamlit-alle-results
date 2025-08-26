@@ -5,7 +5,7 @@ from PIL import Image
 st.set_page_config(layout='wide')
 
 old_alphabake_results_path = "alphabake_old_tryon"
-new_alphabake_path = "multi-threaded-test_V15"
+new_alphabake_path = "multi-threaded-test_V16"
 
 google_results_path = "tryon_results"
 
