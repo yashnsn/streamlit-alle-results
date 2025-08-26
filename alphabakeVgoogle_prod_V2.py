@@ -4,8 +4,8 @@ from PIL import Image
 import json
 from collections import defaultdict
 
-alphabake_path = "alphabake_V5"
-google_path = "google_results_V4"
+alphabake_path = "old_data/alphabake_V5"
+google_path = "old_data/google_results_V4"
 
 st.set_page_config(layout="wide")
 
@@ -33,16 +33,18 @@ selected_person = st.selectbox('Person', all_people)
 if selected_person:
     all_files = [i for i in os.listdir(f'{google_path}/{selected_person}') if os.path.exists(f'{alphabake_path}/tryon/{selected_person}_base_image_{i}')]
 
+    
     for ind_file in all_files:
         cols = st.columns(6)
+        base_image = Image.open(f'{alphabake_path}/human/{selected_person}_base_image_{ind_file}')
         cols[0].write('base image')
-        cols[0].image(Image.open(f'{alphabake_path}/human/{selected_person}_base_image_{ind_file}'))
+        cols[0].image(base_image)
 
         cols[1].write('Garment image')
         cols[1].image(Image.open(f'{alphabake_path}/garment/{selected_person}_base_image_{ind_file}'))
         
         cols[2].write('Alphabake tryon')
-        cols[2].image(Image.open(f'{alphabake_path}/tryon/{selected_person}_base_image_{ind_file}'))
+        cols[2].image(Image.open(f'{alphabake_path}/tryon/{selected_person}_base_image_{ind_file}').resize(base_image.size))
 
         cols[3].write('google tryon')
         cols[3].image(Image.open(f'{google_path}/{selected_person}/{ind_file}'))

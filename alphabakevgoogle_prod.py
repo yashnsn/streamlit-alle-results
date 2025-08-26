@@ -2,8 +2,8 @@ import os
 import streamlit as st
 from PIL import Image
 
-alphabake_path = "alphabake_V5"
-google_path = "google_results_V4"
+alphabake_path = "old_data/alphabake_V5"
+google_path = "old_data/google_results_V4"
 
 st.set_page_config(layout="wide")
 
