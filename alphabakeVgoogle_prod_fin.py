@@ -16,14 +16,15 @@ if selected_cat:
     all_results = list(os.listdir(f'{google_results_path}/{selected_cat}'))
     all_results.sort()
     for ind_res in all_results:
-        if ind_res.startswith('.') or 'stuti_0.png_base_image_2029275_1000.jpg' in ind_res or 'suhani_0.png_base_image_2029275_1000.jpg' in ind_res:
+        if ind_res.startswith('.'):
             continue
 
         image_name = ind_res.split("_",2)[-1]
         base_img_name = f'{ind_res.split("_",2)[0]}_{ind_res.split("_",2)[1]}'
 
-        
         fin_name = f'{base_img_name}.png_base_image_{image_name}'.replace('.webp','.jpg').replace('.jpeg','.jpg')
+        if 'stuti_0.png_base_image_2029275_1000.jpg' in fin_name or 'suhani_0.png_base_image_2029275_1000.jpg' in fin_name:
+            continue
         if not os.path.exists(f'{alphabake_res_path}/human/{fin_name}'):
             continue
         base_img = Image.open(f'{alphabake_res_path}/human/{fin_name}')
