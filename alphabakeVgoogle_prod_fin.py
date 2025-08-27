@@ -16,7 +16,7 @@ if selected_cat:
     all_results = list(os.listdir(f'{google_results_path}/{selected_cat}'))
     all_results.sort()
     for ind_res in all_results:
-        if ind_res.startswith('.'):
+        if ind_res.startswith('.') or 'stuti_0.png_base_image_2029275_1000.jpg' in ind_res or 'suhani_0.png_base_image_2029275_1000.jpg' in ind_res:
             continue
 
         image_name = ind_res.split("_",2)[-1]
