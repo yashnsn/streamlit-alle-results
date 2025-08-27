@@ -32,6 +32,7 @@ if selected_cat:
         tryon_img = Image.open(f'{alphabake_res_path}/tryon/{fin_name}')
         google_tryon = Image.open(f'{google_results_path}/{selected_cat}/{ind_res}')
 
+        st.write(fin_name)
         cols = st.columns(4)
         cols[0].write('base image')
         cols[0].image(base_img)
