@@ -21,9 +21,9 @@ for ind_file in os.listdir(f'{root_path}/tryon'):
     cols[0].image(garment_img)
     cols[1].write('base image')
     cols[1].image(base_img)
-    cols[2].write('tryon old result')
+    cols[2].write('tryon result(smart skin on)')
     cols[2].image(tryon_old)
-    cols[3].write('tryon result')
+    cols[3].write('tryon result(smart skin off)')
     cols[3].image(tryon)
 
     st.divider()
