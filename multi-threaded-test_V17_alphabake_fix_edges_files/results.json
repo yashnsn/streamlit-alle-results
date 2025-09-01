@@ -1,0 +1,71 @@
+{
+  "requests": [
+    {
+      "folder": "isha_1.png_base_image_176672_1000.jpg",
+      "status": "success",
+      "duration": 29.993174076080322,
+      "note": "",
+      "tryon_id": "0f5bba95-2622-4f2a-9b93-0f46401886af-T47454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_176672_1000.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_176672_1000.jpg?v=23415g",
+      "garment_id": "7566e608-c270-46fa-a8af-ce075716e144-G48713",
+      "human_id": "81cc4b05-092f-48f0-9e9c-6e03854b349e-H17882"
+    },
+    {
+      "folder": "isha_1.png_base_image_177369_1001.jpg",
+      "status": "success",
+      "duration": 35.87024188041687,
+      "note": "",
+      "tryon_id": "5c381ecd-ab77-4cea-baaa-7f9765dbf6ec-T37454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_177369_1001.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_177369_1001.jpg?v=23415g",
+      "garment_id": "d9ee4ea7-4c90-4053-b69d-8f623c7e9bc5-G38713",
+      "human_id": "d28178ef-4319-41de-9e24-baf47ad3276a-H07882"
+    },
+    {
+      "folder": "isha_0.png_base_image_178888_1000.jpg",
+      "status": "success",
+      "duration": 35.89156699180603,
+      "note": "",
+      "tryon_id": "506f9377-b7fb-41eb-91d7-d72c793df065-T27454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_0.png_base_image_178888_1000.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_0.png_base_image_178888_1000.jpg?v=23415g",
+      "garment_id": "d8ea4e61-45a1-4a6f-b814-271f4c258b6d-G28713",
+      "human_id": "870bdda5-0e39-4292-af9b-a46432ddaf66-H96882"
+    },
+    {
+      "folder": "isha_1.png_base_image_57486_1004.jpg",
+      "status": "success",
+      "duration": 46.66690182685852,
+      "note": "",
+      "tryon_id": "3a116ff5-4204-4637-ae61-9bd5c2406382-T17454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_57486_1004.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_57486_1004.jpg?v=23415g",
+      "garment_id": "ab985972-7b8a-42ab-b184-3dfd5aa09be3-G18713",
+      "human_id": "17f05758-eb05-4d92-af47-98c7ab635d8b-H86882"
+    },
+    {
+      "folder": "stuti_0.png_base_image_917885_1001.jpg",
+      "status": "success",
+      "duration": 46.72461676597595,
+      "note": "",
+      "tryon_id": "1a6df76c-b6ed-45d3-a56d-1996c1b9505a-T57454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/stuti_0.png_base_image_917885_1001.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/stuti_0.png_base_image_917885_1001.jpg?v=23415g",
+      "garment_id": "cc7bb466-12c2-40b8-835e-232af657d864-G58713",
+      "human_id": "e5053d93-cb46-4c8c-96c1-a4e70166193e-H27882"
+    },
+    {
+      "folder": "isha_1.png_base_image_93083_1000.jpg",
+      "status": "fail",
+      "duration": 45.28102707862854,
+      "note": "API message: FAIL REASON :  Invalid garment asset with error: HTTP Error 522: ",
+      "tryon_id": "f7f59c94-ed10-4c4b-a482-f2c99e1a00ad-T67454",
+      "garment_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_93083_1000.jpg?v=125wfb23",
+      "human_url": "https://ox0hukec5pjwpb-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_93083_1000.jpg?v=23415g",
+      "garment_id": null,
+      "human_id": null
+    }
+  ],
+  "average_duration": 39.02930030822754
+}
