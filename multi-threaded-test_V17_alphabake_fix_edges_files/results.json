@@ -1,0 +1,71 @@
+{
+  "requests": [
+    {
+      "folder": "isha_1.png_base_image_57486_1004.jpg",
+      "status": "success",
+      "duration": 48.43208122253418,
+      "note": "",
+      "tryon_id": "9eff06d2-9607-4d55-a445-0ce18380f240-T76474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_57486_1004.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_57486_1004.jpg?v=132q4sdfg452",
+      "garment_id": "7e5337a2-8c23-48ec-bfc3-2594e7e19821-G51233",
+      "human_id": "cbabdb42-f8bd-4775-93d6-fb974d0bd177-H70203"
+    },
+    {
+      "folder": "isha_0.png_base_image_178888_1000.jpg",
+      "status": "success",
+      "duration": 68.75728392601013,
+      "note": "",
+      "tryon_id": "ebc9d9f2-d158-48b5-b81e-f81a62edd227-T86474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_0.png_base_image_178888_1000.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_0.png_base_image_178888_1000.jpg?v=132q4sdfg452",
+      "garment_id": "aacf1cd9-0b9d-4886-b3a3-57fefb961f62-G41233",
+      "human_id": "4d8251df-aa68-43e8-8579-99b045fbf8b9-H90203"
+    },
+    {
+      "folder": "stuti_0.png_base_image_917885_1001.jpg",
+      "status": "success",
+      "duration": 68.94528579711914,
+      "note": "",
+      "tryon_id": "80c77fb7-e150-495b-91d5-f576b89fd086-T66474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/stuti_0.png_base_image_917885_1001.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/stuti_0.png_base_image_917885_1001.jpg?v=132q4sdfg452",
+      "garment_id": "6c16d812-fd01-417f-a99c-e2c5c5326951-G31233",
+      "human_id": "ed78d74c-a4fb-42f7-9cd5-4f2f6057e0a9-H80203"
+    },
+    {
+      "folder": "isha_1.png_base_image_177369_1001.jpg",
+      "status": "success",
+      "duration": 68.94859600067139,
+      "note": "",
+      "tryon_id": "f72d3a3c-13cf-44b1-b75f-2a026c952ed0-T07474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_177369_1001.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_177369_1001.jpg?v=132q4sdfg452",
+      "garment_id": "478c4743-f6ce-4f66-b36d-03302af38431-G71233",
+      "human_id": "187b5693-5bdd-4991-baf9-9f04cef01f40-H11203"
+    },
+    {
+      "folder": "isha_1.png_base_image_176672_1000.jpg",
+      "status": "success",
+      "duration": 69.07290387153625,
+      "note": "",
+      "tryon_id": "033a3d0c-1fe4-4622-a6c8-678672f3ac87-T96474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_176672_1000.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_176672_1000.jpg?v=132q4sdfg452",
+      "garment_id": "bd1eb10d-c408-40f1-a483-050a39b80237-G61233",
+      "human_id": "f614a477-e44c-4a5a-94dd-caa54f24ce15-H01203"
+    },
+    {
+      "folder": "isha_1.png_base_image_93083_1000.jpg",
+      "status": "success",
+      "duration": 68.99600911140442,
+      "note": "",
+      "tryon_id": "48ee7d28-57db-4a7a-8667-e09c1bac0804-T17474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//garment/isha_1.png_base_image_93083_1000.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_edges_files//human/isha_1.png_base_image_93083_1000.jpg?v=132q4sdfg452",
+      "garment_id": "cf6aace1-b33f-40ec-80d7-efa0249aad12-G81233",
+      "human_id": "638b78d8-2748-4a9f-99e6-abe05ece6028-H21203"
+    }
+  ],
+  "average_duration": 65.52535998821259
+}

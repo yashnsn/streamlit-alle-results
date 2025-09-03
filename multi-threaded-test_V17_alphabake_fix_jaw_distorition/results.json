@@ -1,0 +1,38 @@
+{
+  "requests": [
+    {
+      "folder": "stuti_0.png_base_image_170574_1001.jpg",
+      "status": "success",
+      "duration": 69.37611293792725,
+      "note": "",
+      "tryon_id": "93b76983-eeb1-4bb5-bd7f-ce9b8f6acb58-T56474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//garment/stuti_0.png_base_image_170574_1001.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//human/stuti_0.png_base_image_170574_1001.jpg?v=132q4sdfg452",
+      "garment_id": "34f1d817-c97f-4ca5-b5ac-b3fc831850be-G21233",
+      "human_id": "f1cf41df-5edf-4d64-ac87-dc7d41776f54-H60203"
+    },
+    {
+      "folder": "stuti_0.png_base_image_57486_1004.jpg",
+      "status": "success",
+      "duration": 69.38103699684143,
+      "note": "",
+      "tryon_id": "34333524-9457-4509-b1fc-9cc343bef6b7-T36474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//garment/stuti_0.png_base_image_57486_1004.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//human/stuti_0.png_base_image_57486_1004.jpg?v=132q4sdfg452",
+      "garment_id": "94905b0d-8074-499d-ab78-a168a1f14b6b-G01233",
+      "human_id": "8c02a824-6a8c-469d-83df-491280dd0c43-H40203"
+    },
+    {
+      "folder": "isha_1.png_base_image_66778_1003.jpg",
+      "status": "success",
+      "duration": 69.69071793556213,
+      "note": "",
+      "tryon_id": "c347db39-4273-4072-8d1d-9a633083ee91-T46474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//garment/isha_1.png_base_image_66778_1003.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_jaw_distorition//human/isha_1.png_base_image_66778_1003.jpg?v=132q4sdfg452",
+      "garment_id": "aeeaae87-db74-468c-b36f-5a2b611e209f-G11233",
+      "human_id": "41b05777-80d2-419c-82d8-21475f5851f6-H50203"
+    }
+  ],
+  "average_duration": 69.4826226234436
+}

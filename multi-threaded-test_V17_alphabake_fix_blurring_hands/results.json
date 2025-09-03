@@ -1,0 +1,49 @@
+{
+  "requests": [
+    {
+      "folder": "isha_0.png_base_image_66778_1003.jpg",
+      "status": "success",
+      "duration": 48.56921195983887,
+      "note": "",
+      "tryon_id": "c7198b74-9a50-42f3-a7ec-38c57003eca1-T84474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//garment/isha_0.png_base_image_66778_1003.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//human/isha_0.png_base_image_66778_1003.jpg?v=132q4sdfg452",
+      "garment_id": "89f2da91-923c-4e4c-8a23-0e6a77a28151-G49133",
+      "human_id": "35983bc8-c11b-4e54-aa0d-d96bc77aaec8-H98103"
+    },
+    {
+      "folder": "isha_0.png_base_image_1356755_1000.jpg",
+      "status": "success",
+      "duration": 69.30344414710999,
+      "note": "",
+      "tryon_id": "9db59b82-9de3-480a-b582-3c369ae6ee9f-T74474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//garment/isha_0.png_base_image_1356755_1000.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//human/isha_0.png_base_image_1356755_1000.jpg?v=132q4sdfg452",
+      "garment_id": "eccbe7df-b8be-4e50-80fc-bf9d077212d7-G59133",
+      "human_id": "0b74f9a2-66b0-4c5f-a8b3-9dac8be3e004-H09103"
+    },
+    {
+      "folder": "isha_0.png_base_image_1290761_1004.jpg",
+      "status": "success",
+      "duration": 69.65936183929443,
+      "note": "",
+      "tryon_id": "a1ac3d0c-5305-411c-87dd-89ea0a4e997f-T05474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//garment/isha_0.png_base_image_1290761_1004.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//human/isha_0.png_base_image_1290761_1004.jpg?v=132q4sdfg452",
+      "garment_id": "ef33f99d-cb6d-4262-b262-ca411751e60e-G79133",
+      "human_id": "31e588e6-5f20-4b33-b042-0b0d14efa7a0-H29103"
+    },
+    {
+      "folder": "isha_0.png_base_image_802897_1001.jpg",
+      "status": "success",
+      "duration": 69.80308985710144,
+      "note": "",
+      "tryon_id": "7b85b267-a514-4053-aae7-f816d4e3a258-T94474",
+      "garment_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//garment/isha_0.png_base_image_802897_1001.jpg?v=256sf235g23",
+      "human_url": "https://dhztk6ehxaoqcm-3456.proxy.runpod.net/multi-threaded-test_V17_alphabake_fix_blurring_hands//human/isha_0.png_base_image_802897_1001.jpg?v=132q4sdfg452",
+      "garment_id": "99205175-cc0f-4331-8f91-5ba680a6816c-G69133",
+      "human_id": "ef8266d1-48b5-46b9-9bfd-b1b126f26dc1-H19103"
+    }
+  ],
+  "average_duration": 64.33377695083618
+}
