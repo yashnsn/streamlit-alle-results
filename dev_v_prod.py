@@ -3,8 +3,8 @@ import os
 from PIL import Image
 import json
 
-src_root_path = "/Users/yaswanth/repositories/prog_content/combined_images_output_V6_prod"
-src_dev_path = "old_data/combined_images_output_V3"
+src_root_path = "combined_images_output_V6_prod"
+src_dev_path = "combined_images_output_V3"
 
 st.set_page_config(layout='wide')
 st.title("Development vs Production")
