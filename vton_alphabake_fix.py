@@ -29,7 +29,7 @@ for ind_file in mapper[selected_issue]:
     base_img = Image.open(f'{src_folder}/human/{ind_file}')
     garment_img = Image.open(f'{src_folder}/garment/{ind_file}')
     tryon_img = Image.open(f'{src_folder}/tryon/{ind_file}.jpg')
-    tryon_img_old = Image.open(f'{src_folder}/tryon_old/{ind_file}.jpg')
+    tryon_img_old = Image.open(f'{src_folder}/tryon_old/{ind_file}')
     tryon_retain_skin_false = Image.open(f'{src_folder}/tryon_retain_skin_false_lat/{ind_file}.jpg')
 
     st.markdown(f"**{ind_file}**")
