@@ -8,7 +8,7 @@ st.set_page_config(layout='wide')
 cats = [None]
 cats += [i for i in os.listdir("fin_set_results") if not i.startswith('.')]
 google_results_path = "fin_set_results"
-alphabake_res_path = "multi-threaded-test_V16"
+alphabake_res_path = "multi-threaded-test_V17"
 
 selected_cat = st.selectbox('category',cats)
 # all_files = [i for i in os.listdir(f'{}')]
@@ -31,16 +31,19 @@ if selected_cat:
         garment_img = Image.open(f'{alphabake_res_path}/garment/{fin_name}')
         
         tryon_img = Image.open(f'{alphabake_res_path}/tryon/{fin_name}')
+        tryon_img_old = Image.open(f'{alphabake_res_path}/tryon_old/{fin_name}')
         # google_tryon = Image.open(f'{google_results_path}/{selected_cat}/{ind_res}')
 
         st.write(fin_name)
-        cols = st.columns(3)
+        cols = st.columns(4)
         cols[0].write('garment image')
         cols[0].image(garment_img)
         cols[1].write('base image')
         cols[1].image(base_img)
-        cols[2].write('alphabake tryon image')
-        cols[2].image(tryon_img)
+        cols[2].write('alphabake tryon image(old)')
+        cols[2].image(tryon_img_old)
+        cols[3].write('alphabake tryon image(new)')
+        cols[3].image(tryon_img)
         # cols[3].write('google tryon image')
         # cols[3].image(google_tryon)
         st.divider()

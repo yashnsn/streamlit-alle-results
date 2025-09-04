@@ -3,8 +3,8 @@ import os
 from PIL import Image
 import json
 
-src_root_path = "combined_images_output_V3_prod"
-src_dev_path = "combined_images_output_V3"
+src_root_path = "/Users/yaswanth/repositories/prog_content/combined_images_output_V6_prod"
+src_dev_path = "old_data/combined_images_output_V3"
 
 st.set_page_config(layout='wide')
 st.title("Development vs Production")
@@ -18,6 +18,9 @@ if selected_cat:
     all_folders = [i for i in os.listdir(root_path) if not i.startswith('.') and os.path.exists(os.path.join(root_path, i, 'generated_image.jpg'))]
     
     for ind_folder in all_folders:
+        flag = os.path.exists(os.path.join(dev_path, ind_folder, 'reference_compiler_upscaled.jpg')) and os.path.exists(os.path.join(root_path, ind_folder, 'upscaled_reference.jpg')) and os.path.exists(os.path.join(dev_path, ind_folder, 'cropped_garment.jpg')) and os.path.exists(os.path.join(root_path, ind_folder, 'cropped_garment.jpg')) and os.path.exists(os.path.join(dev_path, ind_folder, 'reference_altered.jpg')) and os.path.exists(os.path.join(root_path, ind_folder, 'upscaled_reference_masked.jpg')) and os.path.exists(os.path.join(dev_path, ind_folder, 'metadata.json')) and os.path.exists(os.path.join(root_path, ind_folder, 'metadata.json')) and os.path.exists(os.path.join(dev_path, ind_folder, 'garment.jpg')) and os.path.exists(os.path.join(dev_path, ind_folder, 'reference.jpg')) and os.path.exists(os.path.join(dev_path, ind_folder, 'output_turbo.png'))
+        if not flag:
+            continue
         dev_ref_upscaled = Image.open(os.path.join(dev_path, ind_folder, 'reference_compiler_upscaled.jpg'))
         prod_ref_upscaled = Image.open(os.path.join(root_path, ind_folder, 'upscaled_reference.jpg'))
 
