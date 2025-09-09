@@ -4,7 +4,7 @@ from PIL import Image
 
 st.set_page_config(layout='wide')
 
-src_root_path = "prog_content_testset_sampled_fin"
+src_root_path = "prog_content_testset_sampled"
 all_cats = [i for i in os.listdir(src_root_path) if not i.startswith('.') and os.path.isdir(f'{src_root_path}/{i}')]
 all_cats = [None] + all_cats
 selected_cat = st.selectbox("Select category", all_cats)
