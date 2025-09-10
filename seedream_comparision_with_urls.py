@@ -77,7 +77,7 @@ if selected_cat:
         garment_img, pin_ref_img, gen_img, gen_img_using_upscaled, gen_img_V2 = images
 
         st.write(ind_row['generation_id'])
-        st.write("Image prompt:")
+        st.write("Image generation prompt:")
         st.write(ind_row['image_generation_prompt'])
         cols = st.columns(5)
         cols[0].write('garment image')
