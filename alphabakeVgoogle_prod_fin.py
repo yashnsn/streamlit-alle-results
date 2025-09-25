@@ -8,9 +8,9 @@ st.set_page_config(layout='wide')
 all_possible_issues = ["blurry hands","artifacts","jawline distortion","edges issue","incorrect garment","incorrect body shape","unrealistic pose","pixelation","skin color mismatch","other"]
 # base_images_path = "base_images_fin"
 cats = [None]
-cats += [i for i in os.listdir("fin_set_results") if not i.startswith('.')]
-google_results_path = "fin_set_results"
-alphabake_res_path = "multi-threaded-test_V17"
+cats += [i for i in os.listdir("old_data/fin_set_results") if not i.startswith('.')]
+google_results_path = "old_data/fin_set_results"
+alphabake_res_path = "old_data/multi-threaded-test_V17"
 
 selected_cat = st.selectbox('category',cats)
 # all_files = [i for i in os.listdir(f'{}')]
