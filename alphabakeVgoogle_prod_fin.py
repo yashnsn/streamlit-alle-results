@@ -9,7 +9,7 @@ all_possible_issues = ["blurry hands","artifacts","jawline distortion","edges is
 # base_images_path = "base_images_fin"
 cats = [None]
 cats += [i for i in os.listdir("old_data/fin_set_results") if not i.startswith('.')]
-google_results_path = "old_data/fin_set_results"
+google_results_path = "old_data/fin_set_results_V3"
 alphabake_res_path = "old_data/multi-threaded-test_V17"
 
 selected_cat = st.selectbox('category',cats)

@@ -7,7 +7,7 @@ st.set_page_config(layout='wide')
 base_image_path = "base_images_fin_optimized"
 garments = "final_testset_garments"
 # old_results = "final_testset_garments_results_V7"
-new_results = "final_testset_garments_results_V14_lora"
+new_results = "final_testset_garments_results_V15_lora"
 alphabake_results_path = "alphabake_results"
 
 base_images = [i for i in os.listdir(new_results) if not i.startswith('.')]
